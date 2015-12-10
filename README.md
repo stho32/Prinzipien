@@ -87,3 +87,11 @@ Der zweite Fall bedeutet das verlustreiche halten eines Status quo, bis die Hera
 Daher ist es günstiger, Deinen Kopf und die der Leute, mit denen Du zusammenarbeitest, frei zu bekommen. Kein emotionales Ungleichgewicht zu schaffen. Nicht jedem Deine Herausforderungen vorzubeten sondern konstruktive Lösungen zu schaffen.
 
 Je mehr Zeit von sinnlosen Schwierigkeiten Du einsparen kannst, desto bessere Form wird die Kooperation nach außen haben.
+
+## Klarheit
+
+Klarheit sorgt für Aktion und Transparenz. Klarheit führt zu Fortschritt und erledigten Aufgaben. Unklarheit führt zu in Diskussionen und emotionalen Trauma vergeudeter Zeit.
+
+  1. Ein Kunde sollte niemals nachfragen müssen. (Sensor)
+  2. Machst Du das? Das war doch Deine Aufgabe, oder? (Sensor)
+  3. Ja, aber dann ist irgendwie nichts passiert. (Sensor)
