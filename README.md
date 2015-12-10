@@ -95,3 +95,52 @@ Klarheit sorgt für Aktion und Transparenz. Klarheit führt zu Fortschritt und e
   1. Ein Kunde sollte niemals nachfragen müssen. (Sensor)
   2. Machst Du das? Das war doch Deine Aufgabe, oder? (Sensor)
   3. Ja, aber dann ist irgendwie nichts passiert. (Sensor)
+
+## Pull-Prinzip ist besser als Push-Prinzip
+
+Weil es besser ist, jemandem, der sich nach etwas fragt, genau dann die Antwort zu geben, wenn er sie haben will,
+
+als diesen Jemand jeden morgen pro Forma vollzusabbeln, weil er sich das bestimmt vielleicht unter Umständen auch nicht am Tag fragen wird. Aber die Antwort hat er schonmal.
+
+## Schaffe permanente Dinge und entwickle diese Schrittweise weiter
+
+Erschaffen wir gleich eine permanente Repräsentation des Gelernten, dann könnten wir so in der Zukunft bei einem Wiederauftreten eines ähnlichen oder des gleichen Problems auf den Erkenntnissen der Vergangenheit aufbauen.
+
+Durch eine schrittweise Weiterentwicklung verhindern wir hohe Anfangsinvestitionen und falsches Priorisieren, weil ein Problem häufiger wiederkehren muss, und erst dadurch investieren wir mehr.
+
+Je häufiger uns also ein Problem betrifft, desto besser werden wir in dessen Lösung und desto weiter schaffen wir es auf unserem Weg.
+
+## Sorgfalt ist wichtiger als Geschwindigkeit (das gilt auch für das Lernen)
+
+Es könnte sein, dass  wir später häufiger von Dingen profitieren, bei denen wir uns erst ein paar mehr Gedanken gemacht haben.
+
+Im Lernen bedeutet das, nicht unmittelbar auf Quantität zu gehen, sondern lieber wenig intensiv zu lernen. Sobald es im Langzeitgedächtnis ist, könnte es sein, dass es nun ein solider permanenter Begleiter ein Leben lang wird. Und damit könnte es zu einem Treppenstein werden, auf dem man aufbauen kann.
+
+Dagegen viel zu lernen, es aber mittelfristig wieder zu verdrängen hilft auch nur kurzfristig. Dadurch hat das erlernte Wissen möglicherweise weniger Zeit, sich zu amortisieren.
+
+## Wort gegeben, Wort gehalten
+
+Das ist für mich ein Messwert, also kein Zwang.
+
+Wenn ich es schaffe meine gegebenen Angebote zu 100% einzuhalten, dann bin ich maximal kooperationsfähig und vermutlich ein toller Handelspartner.
+
+Wenn ich sage ich bin um 12 da, bin aber um 15 Uhr da und nur so irgendwie, dann werden sich alle herum daran anpassen, dass ich eine organisatorische Katastrophe bin. Ergo bin ich weniger kooperationsfähig und vermutlich kein so toller Handelspartner.
+
+Es gibt aber auch immer mal Gründe, warum man ein Wort nicht halten kann. Notfälle oder wenn sich herausstellt, dass ein unverhältnismäßiger Aufwand damit verbunden wäre, der nicht durch die Gegenleistung aufgewogen wird. Dann ist es legitim, von seinem Wort zurückzutreten.
+
+## Inversion of Control auf das Leben angewendet
+
+“Pull statt Push”-Prinzip. Lehne so viel Rumschubserei wie möglich ab.
+
+Das Telefon ist immer auf  stumm geschaltet, es sei denn man erwartet einen dringenden Anruf. Dadurch kann man konzentriert arbeiten und danach sehen, welche Leute angerufen haben und wann man sie zurückrufen möchte.
+
+Das ist kein Affront, solange Du es ankündigst. Unbekannte Telefonnummern am Besten nie zurückrufen. Es sind sehr wahrscheinlich Werbeanrufe.
+
+Zwinge Dir nicht per Kalender Tätigkeiten auf, sondern ziehe Dir die Aufgaben, wenn sie gerade passen. Dadurch hast Du dann auch Lust darauf, sie zu erledigen. Du kannst Dir aber super Zeit im Kalender einplanen, wann Du solche Dinge erledigen willst. Dann kannst Du Deinen Bekannten und Verwandten sagen, dass Du da nicht zur Verfügung stehst und schon ist wieder ein Ausgleich der Beziehungen geschaffen. Du musst ihnen nicht einmal sagen, was Du da tust. Eigentlich zählt nur: Du bist da nicht da. Klarheit für Dich und die anderen.
+
+Schreibe möglichst alle Aufgaben auf ein- und dieselbe Liste. Gerne gruppiert oder so. Eine Aufgabe, die Dir in den Sinn kommt, scheint zunächst immer die wichtigste zu sein. Wenn Du sie auf die Liste schreibst, dann schau nochmal kritisch: was davon bringt mir innerhalb von 1 Woche, 2 Wochen, 1 Monat den meisten Erfolg? Du kannst Kleinklimbim auch nebenbei  erledigen, aber nimm Dir jede Woche auch ein paar der Aufgaben vor, die in Deiner Liste besonders erfolgversprechend sind. Das sind neue Treppenstufen für langfristigen Erfolg. Dinge die etliche Leute nicht tun.
+
+Solange die Aufgaben nicht auf einer gemeinsamen Liste stehen, sind sie nicht priorisiert. Das ist wichtig zu verstehen. Wenn Du Leute dazu bringen willst, ihren gegenseitigen Kontext zu berücksichtigen, sollten die Aufgaben der Gruppe auf einer Liste stehen, die von allen gemeinsam gesehen (und aktualisiert) werden kann.
+
+Verschiebung ist keine Planung. Verschiebung heißt, dass falsch geplant wurde und die Absprache, trotz gegenteiliger Annahme, unklar war und ist deshalb ein Sensor, dass Du noch besser werden solltest.
+
