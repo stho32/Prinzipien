@@ -1,8 +1,4 @@
-# Prinzipien
-
-Zur kontinuierlichen Weiterentwicklung
-
-## Belastungen vermeiden
+# Belastungen vermeiden
 
 Ab und zu gibt es Situationen, wo man mal mit jemandem reden sollte. Aber nach Möglichkeit eher so alle 10 Treffen statt jedes mal. Leute die ständig Probleme zu haben erscheinen unattraktiv.
 
@@ -12,13 +8,13 @@ Wenn sich herausstellt, dass man grundsätzlich verschiedene Vorstellungen hat, 
 
 In jedem Fall profitiert man von positiver Stimmung eher, als von negativer Stimmung. Im Sinne einer ausgeglichenen Beziehung könnte man sagen: Jemand, der einen zu sehr in die eigenen Probleme einbezieht, tendiert dazu, in der Beziehung weniger an den Partner zurückzugeben. Ergo unausgeglichene Beziehung.
 
-## Beziehungen im Gleichgewicht
+# Beziehungen im Gleichgewicht
 
 “Beziehungen im Gleichgewicht” beschreibt, dass Beziehungen zwischen Menschen im Bezug auf einen gemeinsamen Vorteil geführt werden sollten.
 
 Man sucht dabei gemeinsam einen Weg, ohne  dass sich ein Teilnehmer der Beziehung verausgabt oder ausgenutzt wird um langfristige, angenehme und handlungsfähige Bindungen zueinander zu erreichen.
 
-## Einschätzung von Hilfeleistungen
+# Einschätzung von Hilfeleistungen
 
 Wenn Dich jemand um Hilfe bittet, dann gibt es ~ 3 mögliche Antworten:
 
@@ -42,7 +38,7 @@ Im jeden Fall hat er aber eigentlich nur die Wahl, entweder Dir weiter auf die N
 
 Das führt zur Zerrüttung einer Freizeitbeziehung. Nur wenn der andere ebenso Weise ist und den Deadlock erkennt, kann ein Streit gestoppt werden.
 
-## Mit-Handel und Gegen-Handel
+# Mit-Handel und Gegen-Handel
 
 Es gibt 2 Arten gemeinsam zu handeln.
 
@@ -52,7 +48,7 @@ Der Gegen-Handel ist ein Handel, in dem sich die Ziele der Kooperationspartner u
 
 PS: Ich helfe Dir mit Deiner Webseite, damit Du aufhörst darüber zu meckern, erkenne ich nicht als Handel an. Das hat eher die Züge von Erpressung.
 
-## Tod und Werte
+# Tod und Werte
 
 Alle Deine Handlungen und die der Leute in Deiner Umgebung beeinflussen die Gesamtheit der Dinge.
 
@@ -64,7 +60,7 @@ Wenn jemand stirbt, so ist es deshalb nicht so, als wenn er nie gelebt hätte, o
 
 Dieses Vermächtnis ist es, an dem wir ein Leben lang arbeiten.
 
-## Bekomme Deinen Kopf frei (und die der Leute mit denen Du zusammenarbeitest)
+# Bekomme Deinen Kopf frei (und die der Leute mit denen Du zusammenarbeitest)
 
 Sprechen wir im Kontext von Command & Conquer.
 
@@ -88,7 +84,7 @@ Daher ist es günstiger, Deinen Kopf und die der Leute, mit denen Du zusammenarb
 
 Je mehr Zeit von sinnlosen Schwierigkeiten Du einsparen kannst, desto bessere Form wird die Kooperation nach außen haben.
 
-## Klarheit
+# Klarheit
 
 Klarheit sorgt für Aktion und Transparenz. Klarheit führt zu Fortschritt und erledigten Aufgaben. Unklarheit führt zu in Diskussionen und emotionalen Trauma vergeudeter Zeit.
 
@@ -96,13 +92,13 @@ Klarheit sorgt für Aktion und Transparenz. Klarheit führt zu Fortschritt und e
   2. Machst Du das? Das war doch Deine Aufgabe, oder? (Sensor)
   3. Ja, aber dann ist irgendwie nichts passiert. (Sensor)
 
-## Pull-Prinzip ist besser als Push-Prinzip
+# Pull-Prinzip ist besser als Push-Prinzip
 
 Weil es besser ist, jemandem, der sich nach etwas fragt, genau dann die Antwort zu geben, wenn er sie haben will,
 
 als diesen Jemand jeden morgen pro Forma vollzusabbeln, weil er sich das bestimmt vielleicht unter Umständen auch nicht am Tag fragen wird. Aber die Antwort hat er schonmal.
 
-## Schaffe permanente Dinge und entwickle diese Schrittweise weiter
+# Schaffe permanente Dinge und entwickle diese Schrittweise weiter
 
 Erschaffen wir gleich eine permanente Repräsentation des Gelernten, dann könnten wir so in der Zukunft bei einem Wiederauftreten eines ähnlichen oder des gleichen Problems auf den Erkenntnissen der Vergangenheit aufbauen.
 
@@ -110,7 +106,7 @@ Durch eine schrittweise Weiterentwicklung verhindern wir hohe Anfangsinvestition
 
 Je häufiger uns also ein Problem betrifft, desto besser werden wir in dessen Lösung und desto weiter schaffen wir es auf unserem Weg.
 
-## Sorgfalt ist wichtiger als Geschwindigkeit (das gilt auch für das Lernen)
+# Sorgfalt ist wichtiger als Geschwindigkeit (das gilt auch für das Lernen)
 
 Es könnte sein, dass  wir später häufiger von Dingen profitieren, bei denen wir uns erst ein paar mehr Gedanken gemacht haben.
 
@@ -118,7 +114,7 @@ Im Lernen bedeutet das, nicht unmittelbar auf Quantität zu gehen, sondern liebe
 
 Dagegen viel zu lernen, es aber mittelfristig wieder zu verdrängen hilft auch nur kurzfristig. Dadurch hat das erlernte Wissen möglicherweise weniger Zeit, sich zu amortisieren.
 
-## Wort gegeben, Wort gehalten
+# Wort gegeben, Wort gehalten
 
 Das ist für mich ein Messwert, also kein Zwang.
 
@@ -128,7 +124,7 @@ Wenn ich sage ich bin um 12 da, bin aber um 15 Uhr da und nur so irgendwie, dann
 
 Es gibt aber auch immer mal Gründe, warum man ein Wort nicht halten kann. Notfälle oder wenn sich herausstellt, dass ein unverhältnismäßiger Aufwand damit verbunden wäre, der nicht durch die Gegenleistung aufgewogen wird. Dann ist es legitim, von seinem Wort zurückzutreten.
 
-## Inversion of Control auf das Leben angewendet
+# Inversion of Control auf das Leben angewendet
 
 “Pull statt Push”-Prinzip. Lehne so viel Rumschubserei wie möglich ab.
 
