@@ -19,7 +19,9 @@ Clear
 function VerarbeiteDatei ($dateiname) 
 {
     (Get-Content $dateiname -Encoding UTF8).Split("`n") | % {
-        Write-Host $_ -ForegroundColor Cyan
+        
+        # DEBUG Ausgabe
+        #Write-Host $_ -ForegroundColor Cyan
 
         <# Include Befehle verarbeiten #>
         if ( $_.StartsWith("include ") ) {
@@ -83,4 +85,5 @@ $inhaltsverzeichnis = InhaltsverzeichnisZUsammenstellen
 $inhalt = $inhalt.Replace("Table-Of-Contents-Here", $inhaltsverzeichnis)
 $inhalt | Out-File $ausgabedatei -Encoding utf8
 
+Write-Host $ausgabedatei wurde erstellt.
 #notepad $ausgabedatei
