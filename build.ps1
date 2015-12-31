@@ -27,8 +27,9 @@ function VerarbeiteDatei ($dateiname)
         if ( $_.StartsWith("include ") ) {
             $include_dateiname = $_.Remove(0, "include ".Length)
             VerarbeiteDatei $include_dateiname
+            return
         }
-
+        
         <# Table-Of-Contents-Here #>
         if ( $_.StartsWith("Table-Of-Contents-Here") ) {
             <# Im Moment befinden wir uns im Sammelmodus, da bedeutet die Kennzeichnung nur: 
@@ -44,7 +45,8 @@ function VerarbeiteDatei ($dateiname)
                 "_" + $global:tableOfContents.Count;
             $global:tableOfContents += @{ Titel = $_; Link = $link }
             
-            "<a name=`"" + $link + "`"></a>" | Out-File $ausgabedatei -Encoding utf8 -Append
+            "
+<a name=`"" + $link + "`"></a>" | Out-File $ausgabedatei -Encoding utf8 -Append
         }
 
 
