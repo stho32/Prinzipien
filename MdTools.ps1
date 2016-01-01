@@ -59,8 +59,10 @@ function InhaltsverzeichnisZusammenstellen()
 }
 
 
-function MarkdownBuild($eingabedatei, $ausgabedatei)
+function MarkdownBuild($verzeichnisMitMds, $eingabedatei, $ausgabedatei)
 {
+    cd $verzeichnisMitMds
+
     $global:tableOfContents = @()
 
     <# Erstmal aufräumen #>
@@ -78,4 +80,5 @@ function MarkdownBuild($eingabedatei, $ausgabedatei)
     $inhalt | Out-File $ausgabedatei -Encoding utf8
 
     Write-Host $ausgabedatei wurde erstellt.
+    cd ..
 }

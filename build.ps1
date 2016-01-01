@@ -6,11 +6,11 @@
 
 . ".\MdTools.ps1"
 
-#Clear
-cd Prinzipiensammlung
+Clear
 
-MarkdownBuild "index.md" "../Prinzipiensammlung.md"
+MarkdownBuild "Der-Weg-Zu-Den-Besten" "index.md" "../Der-Weg-Zu-Den-Besten.md"
 
-cd ..
+MarkdownBuild "Prinzipiensammlung" "index.md" "../Prinzipiensammlung.md"
+
 
 #notepad $ausgabedatei
