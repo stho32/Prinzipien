@@ -11,6 +11,7 @@ include Viel-ist-das-Gegenteil-von-Schnell-und-Gut.md
 include Sorgfalt-ist-wichtiger-als-Geschwindigkeit.md
 
 include Strategie-kommt-vor-Ausfuehrung.md
+include Prinzip-der-kontinuierlichen-Weiterbildung.md
 include Qualifikation-von-Entscheidungen.md
 
-include Inversion-Of-Control.md
+include Pull-Prinzip-ist-besser-als-Push-Prinzip.md

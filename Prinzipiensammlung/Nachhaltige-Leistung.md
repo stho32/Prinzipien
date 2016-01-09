@@ -1,6 +1,6 @@
 # Nachhaltige Leistung - Unabhängigkeit vom Ausführenden
 
-Zu Erbringung von nachhaltiger Leistung gehört das stetige Bemühen, dass jede erbrachte Leistung auch jemand anders weitergegeben werden kann. So dass auch wenn man sich nicht mehr mit einem Thema beschäftigen kann oder möchte, eine Fortsetzung der Arbeit garantiert werden kann.
+Zu Erbringung von nachhaltiger Leistung gehört das stetige Bemühen, dass jede erbrachte Leistung auch an jemand anders weitergegeben werden kann. So dass auch wenn man sich nicht mehr mit einem Thema beschäftigen kann oder möchte, eine Fortsetzung der Arbeit garantiert werden kann.
 
 Nur so ist der Aufbau eines Spitzenteams möglich, denn sonst verliert das Team alle Errungenschaften jedesmal wenn ein Kollege seine Arbeitseinstellung oder seine Teamzugehörigkeit ändert.
 
