@@ -52,7 +52,7 @@ function InhaltsverzeichnisZusammenstellen()
         $ergebnis += "`">"
         $ergebnis += $global:tableOfContents[$i].Titel.Replace("#", "&nbsp;&nbsp;")
         $ergebnis += "</a>"
-        $ergebnis += "<br/>`r`n"
+        $ergebnis += "`r`n"
     }
 
     return $ergebnis

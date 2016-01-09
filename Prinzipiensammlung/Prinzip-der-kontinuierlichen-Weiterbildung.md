@@ -1,4 +1,4 @@
-# Prinzip der Kontinuierlichen Weiterbildung
+# Prinzip der kontinuierlichen Weiterbildung
 
 Die Welt ist in einem ständigen Wandel begriffen und so gelangst Du ständig an die Grenzen Deiner Kenntnisse. Die Zeiten, in denen eine Neuigkeit Wochen unterwegs war, bis sie eintraf sind lange vorbei. 
 
