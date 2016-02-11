@@ -10,4 +10,4 @@ Strebe nach zwei Dingen. Das eine ist natürlich die bestmögliche Fortbildung. 
 
 Geprüftes Wissen bedeutet, dass Prüfungen - und zwar am Besten schwierige aber nützliche Prüfungen angestrebt werden. Das Ziel dahinter ist sich Kenntnisse von einem qualifizierten Dritten bestätigen zu lassen. Das geschieht nicht aus Präsentationszwecken, sondern um die Chance zu erhöhen, dass man nicht am Lernziel vorbeirennt, oder in die Falle fällt, das man von sich selbst glaubt Kenntnisse und Fähigkeiten zu besitzen, die man eigentlich nicht besitzt.
 
-Ich persönlich strebe nach der Auslegung: "Setze auf Arbeit keine Technologie ein, zu der Du nicht auch Fortbildungen besucht hast." Als Nachweis einer Fortbildung können unterschiedöiche Dinge gelten, aber natürlich auch Zertifikate, wenn diese möglich sind.
+Setze auf Arbeit keine Technologie ein, zu der Du nicht auch Fortbildungen besucht hast.
