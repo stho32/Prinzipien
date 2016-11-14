@@ -16,10 +16,10 @@ Spiderman streckt die Waffen und schon steigt die Kriminalität um 75%, heisst e
 
 Leute, die mit besonderer Kraft und Begeisterung in Bereiche vorpreschen, und dort mit maximalen Überstunden, unter Extrembedingungen arbeiten, aber auch Leute die in neue Bereiche vordringen und das auf eine Weise tun, auf die ihnen keiner folgen kann, die ihr Wissen nicht notieren und vermitteln, bezeichne ich hier als Helden. Genau wie Spiderman, dessen Leistung nachhaltiger gewesen wäre, wenn er der Polizei dabei geholfen hätte, selbst Methoden und Werkzeuge zu entwickeln, die helfen, die Kriminalität unter Kontrolle zu halten.
 
-Aber ein Zusammenbruch nach dem Gehen zeigt uns und unsere Umgebung ja, wie wichtig wir waren, nicht war?
+Aber ein Zusammenbruch nach dem Gehen zeigt uns und unserer Umgebung ja, wie wichtig wir waren, nicht war?
 
 In diesen Situationen wird gerne nicht dokumentiert. Oder vielleicht bedeutet die Kontrolle eines Bereiches auch ein Druckmittel für besondere Vorteile. Aus dieser Art des Arbeitens entsteht eine Blockade für Nachfolger.
-Werden keine Massnahmen durchgefüht, Wissen in vermittelbarer Form festzuhalten oder sind diese Bereiche nur mit Extrembedinungen zu halten, dann ist man plötzlich auf den Helden angewiesen.
+Werden keine Massnahmen durchgeführt, Wissen in vermittelbarer Form festzuhalten oder sind diese Bereiche nur mit Extrembedinungen zu halten, dann ist man plötzlich auf den Helden angewiesen.
 
 Unentbehrlichkeit ist:
   - schlecht für den unentbehrlichen Mitarbeiter, weil er niemals fehlen darf und behindert ihn in der Weiterentwicklung, weil er den Ort oder die Sache niemals verlassen darf
