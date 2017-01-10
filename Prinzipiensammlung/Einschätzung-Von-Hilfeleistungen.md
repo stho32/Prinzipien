@@ -43,7 +43,7 @@ Leute einfach um und zeigen auf Dich und machen Dich für das Problem verantwort
 Wenn daraus ein geschäftlicher Schaden entsteht, bist du möglicherweise plötzlich in persönlicher Haftung. Selbst wenn nicht
 kann es sein, dass daraus ein Verfahren entsteht und du viel Zeit mit Gericht und Anwalt verbringst. 
 
-Also vorsicht! Hier wird mit fiesen Karten gespielt.
+Also Vorsicht! Hier wird mit fiesen Karten gespielt.
 
 
 
