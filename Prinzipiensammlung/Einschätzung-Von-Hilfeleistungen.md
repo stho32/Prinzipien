@@ -16,8 +16,35 @@ So kann aus einer kleinen Hilfe ein echtes Problem heranwachsen. Denn ab einer g
 
 Emotionen kochen hoch, denn der andere Handelsbeteiligte will schließlich, dass Du da weiter machst.
 
-Möglicherweise weiß er nichts davon, was für Investitionen notwendig ist, um Deine Hilfe zu leisten.
+Möglicherweise weiß er nichts davon, was für Investitionen notwendig sind, um Deine Hilfe zu leisten. Vielleicht ist es auch ein banaler Fall von Egoismus und dem Wunsch Dir zu schaden.
 
 Im jeden Fall hat er aber eigentlich nur die Wahl, entweder Dir weiter auf die Nerven zu gehen, oder aber das von Dir gegebene aufzugeben (was er nicht will, vorausgesetzt es ist gut, denn ansonsten war es auch für ihn Zeitverschwendung).
 
 Das führt zur Zerrüttung einer Freizeitbeziehung. Nur wenn der andere ebenso Weise ist und den Deadlock erkennt, kann ein Streit gestoppt werden.
+
+## Haftung
+
+Es gibt Fälle, bei denen Du helfen könntest und die Herausforderung sieht so aus, als könnte man sie bewältigen.
+Vielleicht ist das Alles auch nur ein Sorgfaltsthema. Berücksichtige hierbei aber auch die Haftung, wenn Du 
+mit Daten umgehst, die teuer werden können.
+
+Vor einiger Zeit bat mich jemand, im Rahmen von Nachbarschaftshilfe, ihm bei der Verarbeitung von CSV-Dateien zu helfen. 
+Das schien mir zunächst eine tolle Möglichkeit ein paar Linux-Tools auszuprobieren, und mal wieder ein bisschen 
+bash/python zu programmieren. Dafür würde ich auch ein kleines Endgeld erhalten. 
+
+Problem dabei: 
+Auf diesen Verarbeitungen wollte er einen komplexen Handel im Internet aufbauen. 
+
+Das wirft mehrere Herausforderungen auf. Erstens ist was auch immer er zahlen möchte nicht genug. Ich erschaffe doch kein 
+Business-Modell fast umsonst in Form von Nachbarschaftshilfe, wenn er sich damit eine komplette Existenz finanzieren kann.
+
+Das andere Problem ist natürlich Haftung. Denn sobald etwas in den Daten falsch stehen würde, drehen sich etliche 
+Leute einfach um und zeigen auf Dich und machen Dich für das Problem verantwortlich. 
+Wenn daraus ein geschäftlicher Schaden entsteht, bist du möglicherweise plötzlich in persönlicher Haftung. Selbst wenn nicht
+kann es sein, dass daraus ein Verfahren entsteht und du viel Zeit mit Gericht und Anwalt verbringst. 
+
+Also vorsicht! Hier wird mit fiesen Karten gespielt.
+
+
+
+
