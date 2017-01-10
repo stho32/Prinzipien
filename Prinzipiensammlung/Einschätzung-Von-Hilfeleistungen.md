@@ -1,5 +1,15 @@
 # Einschätzung von Hilfeleistungen
 
+## Regeln zur Schnellreferenz
+
+  - Hilfeleistung befindet sich im Rahmen einer finanziellen Summe von maximal 50 Eur, sozusagen als gut gemacht Bonus
+  - Dabei wird eine Gesamtarbeitszeit von 2-4 Stunden nicht überschritten. Danach ist - was auch immer - erledigt und übergeben und es bestehen keine weiteren Abhängigkeiten.
+  - Die zu gewährende Hilfeleistung ist für Dich einfach.
+  - Der Hilfesuchende verpflichtet sich im Gegenzug zu einer Gegenleistung. Ohne Gegenleistung keine Leistung.
+  - Die Leistung ist nicht erkennbar deutlich wertvoller als 50 EUR, woraus Haftungsprobleme erwachsen können.
+
+## Details 
+
 Wenn Dich jemand um Hilfe bittet, dann gibt es ~ 3 mögliche Antworten:
 
   1. Die gewünschte Hilfeleistung ist unkompliziert (z.B. Sofa verschieben), dann kann sie gemacht werden. <br/>Eine mögliche Frage, um herauszufinden, ob es sich um eine solche Hilfe handelt: Kennt mein Gegenüber mindestens 3 weitere Personen, bei denen er die Hilfe einfordern könnte.
@@ -44,6 +54,25 @@ Wenn daraus ein geschäftlicher Schaden entsteht, bist du möglicherweise plötz
 kann es sein, dass daraus ein Verfahren entsteht und du viel Zeit mit Gericht und Anwalt verbringst. 
 
 Also Vorsicht! Hier wird mit fiesen Karten gespielt.
+
+## Finanzieller Lohn
+
+Speziell Softwareentwicklung lohnt sich im Wesentlichen einfach nur über Skalierung.
+Eine Software für eine Privatperson macht in der Regel keinen Sinn, es sei denn die Person
+ist Millionär und bereit mächtig zu zahlen. 
+
+In diesem Fall kann sie sich an eine Firma wenden und die Software entwickeln lassen. 
+
+Sollte es tatsächlich eine tolle Idee sein, dann lohnt es sich bestimmt, den Problembereich
+erstmal zu erforschen und User-Tests durchzuführen sowie Prototypen zu bauen. 
+Dazu einen Business-Plan zu schreiben. Wenn das erledigt ist, gibt es automatisch auch 
+ein Budget, über das eine Entwicklung finanziert werden kann - .
+Damit wird es wieder zu einer Software, die vermutlich nicht an nur eine Privatperson 
+vertrieben wird, sondern gleich eine größere Gruppe an Leuten interessiert. 
+
+Damit kann wieder eine Firma beauftragt werden. Also ist keine Relation zu einer Privatperson 
+notwendig.
+
 
 
 
