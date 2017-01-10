@@ -10,5 +10,5 @@ Widersprich in dem Fluss nicht. Auch wenn Du nicht alles glauben solltest, was d
 erzählt wird, lass den anderen Reden. Das wird früher oder später Ansatzpunkte liefern,
 die du in einer produktiven Diskussion anwenden kannst. 
 
-
+Bereichere und bestätige die Diskussionspunkte wo du kannst.
 
