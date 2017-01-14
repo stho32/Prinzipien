@@ -19,7 +19,7 @@ Leute, die mit besonderer Kraft und Begeisterung in Bereiche vorpreschen, und do
 Aber ein Zusammenbruch nach dem Gehen zeigt uns und unserer Umgebung ja, wie wichtig wir waren, nicht war?
 
 In diesen Situationen wird gerne nicht dokumentiert. Oder vielleicht bedeutet die Kontrolle eines Bereiches auch ein Druckmittel für besondere Vorteile. Aus dieser Art des Arbeitens entsteht eine Blockade für Nachfolger.
-Werden keine Massnahmen durchgeführt, Wissen in vermittelbarer Form festzuhalten oder sind diese Bereiche nur mit Extrembedinungen zu halten, dann ist man plötzlich auf den Helden angewiesen.
+Werden keine Massnahmen durchgeführt, Wissen in vermittelbarer Form festzuhalten oder sind diese Bereiche nur mit Extrembedingungen zu halten, dann ist man plötzlich auf den Helden angewiesen.
 
 Unentbehrlichkeit ist:
   - schlecht für den unentbehrlichen Mitarbeiter, weil er niemals fehlen darf und behindert ihn in der Weiterentwicklung, weil er den Ort oder die Sache niemals verlassen darf
