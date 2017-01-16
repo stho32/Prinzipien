@@ -1,4 +1,4 @@
-# Explizit ist besser als Implizit
+# Explizit ist besser als implizit
 
 Wenn du etwas nicht kommunizierst, weil Du denkst, dass der/die andere schon bescheid weiß und 
 es ja logisch ist und man selbst darauf kommt, erlebst du vielleicht das es so ist - vielleicht
