@@ -6,7 +6,7 @@ Ich versuche einfach mal ein paar Fragen aufzustellen, die mir helfen sollen, si
 
 1. Wird durch die Erledigung dieser Aufgabe die Arbeit inhaltlich besser erledigt ist, als zuvor? (Perfektion)
 2. Reduziert sich durch die Erledigung dieser Aufgabe die langfristige Arbeitslast? (Effizienz)
-3. Steigere ich durch die Erledigung dieser Aufgabe die Unabhängigkeit der Arbeit von mir? (Skalierbarkeit)
+3. Steigere ich durch die Erledigung dieser Aufgabe die Unabhängigkeit der Arbeit von Personen? (Skalierbarkeit)
 
 Arbeit = Die eigentliche Arbeit, also z.B. Systemadministration, störungsfrei arbeiten für Kunden, Verwaltung
 
