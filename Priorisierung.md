@@ -8,6 +8,8 @@ Ich versuche einfach mal ein paar Fragen aufzustellen, die mir helfen sollen, si
 2. Reduziert sich durch die Erledigung dieser Aufgabe meine langfristige Arbeitslast? (Effizienz)
 3. Steigere ich durch die Erledigung dieser Aufgabe die Unabhängigkeit der Arbeit von mir? (Skalierbarkeit)
 
+Arbeit = Die eigentliche Arbeit, also z.B. Systemadministration, störungsfrei arbeiten für Kunden, Verwaltung
+
 ## Sollte ich diese Technologie lernen?
 
 Besorge dir eine 10 Minuten Übersicht über die Technologie, dann beantworte folgende Fragen. 
