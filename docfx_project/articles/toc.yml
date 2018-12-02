@@ -33,7 +33,7 @@
     - name: Priorisierung
       href: Entscheidungen-treffen/Priorisierung.md
     - name: Qualifikation von Entscheidungen
-      href: Entscheidungen-treffen/Qualifikation-von-Entscheidungen
+      href: Entscheidungen-treffen/Qualifikation-von-Entscheidungen.md
     - name: Strategie kommt vor der Ausführung
       href: Entscheidungen-treffen/Strategie-kommt-vor-der-Ausfuehrung.md
     - name: Tod und Werte
@@ -57,39 +57,6 @@
     - name: Alles wichtige nah beisammen
       href: Ordnung/Das-wichtige-nah-beisammen.md
 - name: Software-Entwicklung
+  items:
     - name: Programmier-Prinzipien
       href: Software-Entwicklung/Programmier-Prinzipien.md
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
