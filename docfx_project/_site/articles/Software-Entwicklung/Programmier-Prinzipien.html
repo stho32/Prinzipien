@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Prinzipien bei der Entwicklung von Software </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Prinzipien bei der Entwicklung von Software ">
+    <meta name="generator" content="docfx 2.40.4.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    <meta property="docfx:rel" content="../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="prinzipien-bei-der-entwicklung-von-software">Prinzipien bei der Entwicklung von Software</h1>
+
+<p>Neben den üblichen Kandidaten hier meine Gedanken zu einigen Dingen,
+die mir in meiner jahrelangen Praxis begegnet sind.</p>
+<p>Während das die Antworten sind, auf die ich gekommen bin, kann und möchte
+ich nicht ausschließen, dass man bei anderer Historie vielleicht anders denkt.
+Wer weiß, die Welt ist groß.</p>
+<h2 id="mehr-quelltext-ist-eigentlich-immer-eine-schlechte-idee-strebe-nach-wenig-source">Mehr Quelltext ist eigentlich immer eine schlechte Idee. Strebe nach wenig Source.</h2>
+<p>Dabei ist es nicht wichtig, ob man selbst den Code geschrieben hat oder nicht.
+Bei PHP z.B. ist es inzwischen üblicher, sich ein ganzes Framework herunterzuladen
+und dieses zu verwenden um Anwendungen zu schreiben.
+Das hat Vorteile - aber machen wir uns nichts vor: Wenn man 1000 Dateien fremden
+Quelltextes in eine Anwendung lädt, dann sind das auch verflucht viele Quelltextzeilen, die man nicht ausreichend kennt und die verflucht viele Variablen beinhalten und Gedanken und Abhängigkeiten.</p>
+<p>Im Endeffekt sind Bibliotheken toll, aber wann immer man kann, nutze man lieber weniger als mehr.</p>
+<p>Der negative Effekt wird einem noch klarer, wenn man das gleiche Projekt in 5 Jahren anfassen muss. Und feststellt, wie viele genutzte Bibliotheken inzwischen nicht mehr existieren, breaking changes hatten, ...</p>
+<h2 id="lesbarkeit-und-verständlichkeit-sind-weitaus-wichtiger-als-performance">Lesbarkeit und Verständlichkeit sind weitaus wichtiger als Performance.</h2>
+<h2 id="strebe-danach-alles-sehr-gut-zu-machen-aber-vergebe-dir-auch">Strebe danach, alles sehr gut zu machen, aber vergebe dir auch.</h2>
+<p>Es gibt aus irgendeinem Grund keine Möglichkeit in einer Gruppe keine Kritik zu ernten. Egal was man wie gut macht, man wird immer ständig Leute finden, die etwas zu nörgeln finden. Vielleicht ist man selbst auch nicht zufrieden.</p>
+<p>Der Zustand, dass alle zufrieden sind, ist aber nicht zu erreichen. Manchmal reicht es schon, einfach so gut zu arbeiten, dass der &quot;Schmerz&quot; woanders hin wandert.</p>
+<h2 id="schreibe-die-anwendungen-in-einer-angemessenen-sprache">Schreibe die Anwendungen in einer angemessenen Sprache.</h2>
+<p>Wenn du international angewandte Software schreibst, dann schreib sie in (gutem) Englisch. Nicht so einem google-Translator gestottere.</p>
+<p>Wenn du Software schreibst, die nur innerhalb einer lokal arbeitenden Firma verwendet wird, dann benenne die Klassen und Variablen in der lokalen Sprache. Das schaltet eine Menge Abstraktionen aus.</p>
+<h2 id="dokumentiere-anforderungen-keine-aufgaben-und-dokumentiere-sie-sofort">Dokumentiere Anforderungen, keine Aufgaben! Und dokumentiere sie sofort.</h2>
+<h2 id="es-geht-um-verantwortliche-entscheidungen-nicht-urlaub-freizeit-dein-wochenende-oder-schuld">Es geht um verantwortliche Entscheidungen, nicht Urlaub, Freizeit, dein Wochenende oder Schuld.</h2>
+<p>Ich möchte, dass die Dinge, die ich schreibe <em>laufen</em>. Das ist mir wichtig.
+Dennoch hab ich mich oft erwischt, wie ich Mantras unserer Gesellschaft nachplappere:</p>
+<ul>
+<li>&quot;Man muss doch mal abschalten können.&quot;</li>
+<li>&quot;Im Urlaub müsste ich eigentlich auch mal 2 Wochen nicht erreichbar sein...&quot;</li>
+</ul>
+<p>Aus meiner Sicht hat alles miteinander zu tun, aber es beginnt mit meinen eigenen Entscheidungen.</p>
+<ul>
+<li>Wenn ich nicht alle Register ziehe, wenn es um Sorgfalt in meiner Software geht, dann muss ich mich nicht wundern, dass ich am Wochenende oder im Urlaub angerufen werde. Die Firma muss mit der Software arbeiten können, sonst erschafft sie keinen Mehrwert...</li>
+<li>Selbst wenn ich das tue, dann kann es immer noch zu unvorhergesehenen Dingen kommen. Und dann ist es mein Wunsch, erreichbar zu sein. Was ich tue, wenn ich professionell entwickle, ist, eine Leistung für andere bereit zu stellen. Das ist ein hohes Gut, das ich entwickeln und stützen möchte. Für die Welt da draußen. Also finde ich es schön, wenn ich so gut bin, dass mich im Urlaub niemand anrufen muss. Aber wenn ein Problem besteht, dann möchte ich liebend gern ansprechbar sein.</li>
+<li>Es geht nicht um Schuld. Oft kann man in der Entwicklung Entscheidungen treffen und alle Wege haben Nachteile die irgendwann mal einem auf das Bein fallen. Wirklich alle. Manchmal habe ich viel Mühe in einen Bereich investiert um dann nie wieder dort dran zu arbeiten und das Projekt ist obsolet geworden. Manchmal habe ich schnell etwas zusammengebastelt und bin es jahrelang nicht mehr los geworden.
+Eigentlich zählt immer nur eins: die nächste verantwortliche Entscheidung im Hinblick auf die Leistung für die anderen. Dann baut man etwas auf.</li>
+</ul>
+<h2 id="du-entscheidest">Du entscheidest.</h2>
+<ul>
+<li>Ob du dich fortbildest oder nicht entscheidest DU SELBST. Niemand kann dir Fortbildung verbieten. Man kann es nicht fördern, aber verbieten kann es dir niemand.</li>
+<li>Die Entscheidung, ob du dich in deiner Freizeit fortbildest oder nicht, triffst DU.</li>
+<li>Wenn du nach 5 Jahren die Firma wechselst und feststellst, dass du nur Technologien kennst, die vor 10 Jahren aktuell waren und die sonst niemand mehr braucht, ist nicht dein ehemaliger Arbeitgeber schuld!</li>
+<li>Ob du so sorgfältig arbeitest, dass dich niemand im Urlaub anrufen muss oder nicht, entscheidest DU.</li>
+<li>Ob du eine Anweisung deines Arbeitgebers befolgst oder nicht, entscheidest DU. Beides kann gut sein, beides kann schlecht sein. Aber letztlich schreibst du den Quelltext, also liegt die Entscheidung bei dir.</li>
+</ul>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/stho32/Prinzipien/blob/master/docfx_project/articles/Software-Entwicklung/Programmier-Prinzipien.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>
