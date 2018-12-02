@@ -1,2 +1,95 @@
-- name: Introduction
-  href: intro.md
+- name: Arbeit erledigen
+  items: 
+    - name: Führungsprinzipien statt direkter Kontrolle
+      href: Arbeit-erledigen/Fuehrungsprinzipien-statt-direkter-Kontrolle.md
+    - name: Gemeinsame Lösungsfindung
+      href: Arbeit-erledigen/Gemeinsame-Loesungsfindung.md
+    - name: Klarheit
+      href: Arbeit-erledigen/Klarheit.md
+    - name: Nachhaltige Leistung
+      href: Arbeit-erledigen/Nachhaltige-Leistung.md
+    - name: Pull ist besser als Push
+      href: Arbeit-erledigen/Pull-Prinzip-ist-besser-als-Push-Prinzip.md
+    - name: Schaffe permanente Dinge und entwickle diese schrittweise weiter
+      href: Arbeit-erledigen/Schaffe-permanente-Dinge-und-entwickle-diese-schrittweise-weiter.md
+    - name: Sorgfalt ist wichtiger als Geschwindigkeit
+      href: Arbeit-erledigen/Sorgfalt-ist-wichtiger-als-Geschwindigkeit.md
+- name: Beziehungen
+  items:
+    - name: Bekomme den Kopf frei
+      href: Beziehungen/Bekomme-deinen-Kopf-frei.md
+    - name: Belastungen vermeiden
+      href: Beziehungen/Belastungen-vermeiden.md
+    - name: Beziehungen im Gleichgewicht
+      href: Beziehungen/Beziehungen-im-Gleichgewicht.md
+    - name: Einschätzung von Hilfeleistungen
+      href: Beziehungen/Einschaetzung-von-Hilfeleistungen.md
+    - name: Mithandel und Gegenhandel
+      href: Beziehungen/Mit-Handel-Und-Gegen-Handel.md
+    - name: Wort gegeben - Wort gehalten
+      href: Beziehungen/Wort-gegeben-Wort-gehalten.md
+- name: Entscheidungen treffen
+  items:
+    - name: Priorisierung
+      href: Entscheidungen-treffen/Priorisierung.md
+    - name: Qualifikation von Entscheidungen
+      href: Entscheidungen-treffen/Qualifikation-von-Entscheidungen
+    - name: Strategie kommt vor der Ausführung
+      href: Entscheidungen-treffen/Strategie-kommt-vor-der-Ausfuehrung.md
+    - name: Tod und Werte
+      href: Entscheidungen-treffen/Tod-und-Werte.md
+    - name: Viel ist das Gegenteil von schnell und gut
+      href: Entscheidungen-treffen/Viel-ist-das-Gegenteil-von-Schnell-und-Gut.md
+- name: Fortbildung organisieren
+  items:
+    - name: Prinzip der kontinuierlichen Weiterbildung
+      href: Fortbildung-organisieren/Prinzip-der-kontinuierlichen-Weiterbildung.md
+- name: Kommunikation
+  items:
+    - name: Explizit ist besser als implizit
+      href: Kommunikation/Explizit-ist-besser-als-implizit.md
+    - name: Lass den Anderen reden
+      href: Kommunikation/Lass-den-Anderen-reden.md
+    - name: Positive Ausdrucksweise
+      href: Kommunikation/Positive-Ausdrucksweise.md
+- name: Ordnung
+  items:
+    - name: Alles wichtige nah beisammen
+      href: Ordnung/Das-wichtige-nah-beisammen.md
+- name: Software-Entwicklung
+    - name: Programmier-Prinzipien
+      href: Software-Entwicklung/Programmier-Prinzipien.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
