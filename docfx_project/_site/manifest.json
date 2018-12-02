@@ -1,0 +1,376 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Projekte/Prinzipien/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Arbeit-erledigen/Fuehrungsprinzipien-statt-direkter-Kontrolle.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Arbeit-erledigen/Fuehrungsprinzipien-statt-direkter-Kontrolle.html",
+          "hash": "tyhpAuztFxCqJvQq3Ng9dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Arbeit-erledigen/Gemeinsame-Loesungsfindung.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Arbeit-erledigen/Gemeinsame-Loesungsfindung.html",
+          "hash": "+4kITZ4dwk5f7kyuBjbXFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Arbeit-erledigen/Klarheit.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Arbeit-erledigen/Klarheit.html",
+          "hash": "EiZ2HdWtCbIpHdOpHDzN0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Arbeit-erledigen/Nachhaltige-Leistung.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Arbeit-erledigen/Nachhaltige-Leistung.html",
+          "hash": "r0aEOPggCzXH9xoskFu0/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Arbeit-erledigen/Pull-Prinzip-ist-besser-als-Push-Prinzip.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Arbeit-erledigen/Pull-Prinzip-ist-besser-als-Push-Prinzip.html",
+          "hash": "DXk8DiEPxG82EIHSF6P7bA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Arbeit-erledigen/Schaffe-permanente-Dinge-und-entwickle-diese-schrittweise-weiter.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Arbeit-erledigen/Schaffe-permanente-Dinge-und-entwickle-diese-schrittweise-weiter.html",
+          "hash": "l3/O/QmMOz/0jIkm9M/Zjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Arbeit-erledigen/Sorgfalt-ist-wichtiger-als-Geschwindigkeit.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Arbeit-erledigen/Sorgfalt-ist-wichtiger-als-Geschwindigkeit.html",
+          "hash": "PlXraU24Ldoky1rwNewkxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Beziehungen/Bekomme-deinen-Kopf-frei.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Beziehungen/Bekomme-deinen-Kopf-frei.html",
+          "hash": "PboCSQhKUuhm+KKIXhmBFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Beziehungen/Belastungen-Vermeiden.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Beziehungen/Belastungen-Vermeiden.html",
+          "hash": "YqBIn7eK0v8t2F0597ARBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Beziehungen/Beziehungen-im-Gleichgewicht.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Beziehungen/Beziehungen-im-Gleichgewicht.html",
+          "hash": "VS5vnjsLf1BFA59RAlbYyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Beziehungen/Einschaetzung-Von-Hilfeleistungen.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Beziehungen/Einschaetzung-Von-Hilfeleistungen.html",
+          "hash": "NFl4V3mhn28itGeh02fg0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Beziehungen/Mit-Handel-Und-Gegen-Handel.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Beziehungen/Mit-Handel-Und-Gegen-Handel.html",
+          "hash": "RSkU0kH4K3JfmRmFKpF3Og=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Beziehungen/Wort-gegeben-Wort-gehalten.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Beziehungen/Wort-gegeben-Wort-gehalten.html",
+          "hash": "n55Kb/Bo9TQsAUi+dmTqww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Entscheidungen-treffen/Priorisierung.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Entscheidungen-treffen/Priorisierung.html",
+          "hash": "TjGPHhPinXvidC/im12ppQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Entscheidungen-treffen/Qualifikation-von-Entscheidungen.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Entscheidungen-treffen/Qualifikation-von-Entscheidungen.html",
+          "hash": "aepHwbBd8Aou/g1/RhCl2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Entscheidungen-treffen/Strategie-kommt-vor-der-Ausfuehrung.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Entscheidungen-treffen/Strategie-kommt-vor-der-Ausfuehrung.html",
+          "hash": "nIfPyHs5t4nXNHE3Gdjjhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Entscheidungen-treffen/Tod-und-Werte.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Entscheidungen-treffen/Tod-und-Werte.html",
+          "hash": "IIG+qDTAkjwx+2gWE3kIqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Entscheidungen-treffen/Viel-ist-das-Gegenteil-von-Schnell-und-Gut.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Entscheidungen-treffen/Viel-ist-das-Gegenteil-von-Schnell-und-Gut.html",
+          "hash": "DM92iawE4SsEypAo1B6hww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Fortbildung-organisieren/Prinzip-der-kontinuierlichen-Weiterbildung.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Fortbildung-organisieren/Prinzip-der-kontinuierlichen-Weiterbildung.html",
+          "hash": "lrP0jjd87xS1V68Fq3LpkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Kommunikation/Explizit-ist-besser-als-implizit.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Kommunikation/Explizit-ist-besser-als-implizit.html",
+          "hash": "Dlq0srCIKwwWqwwIWUmwpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Kommunikation/Lass-den-Anderen-reden.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Kommunikation/Lass-den-Anderen-reden.html",
+          "hash": "bLkoXDmLyzyYQKjUQVE+ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Kommunikation/Positive-Ausdrucksweise.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Kommunikation/Positive-Ausdrucksweise.html",
+          "hash": "Vmrn+3epd29rFyVE7iiclg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Ordnung/Das-wichtige-nah-beisammen.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Ordnung/Das-wichtige-nah-beisammen.html",
+          "hash": "wUDeI+CJq6giJYyQoP+fjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Software-Entwicklung/Programmier-Prinzipien.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Software-Entwicklung/Programmier-Prinzipien.html",
+          "hash": "BwbkRYEyCo3O2WCpSCUy2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BiIaF8L5M0RDKX9Me42gJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "nynxvGiShwNuEIsBYHiNPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "weB+NN5GGuMWRV6gIx35VQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
